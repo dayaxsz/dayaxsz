@@ -2,7 +2,7 @@
 
     
 <div align="center">
-<b>Data Analysis intern | Streamer | Java learner | ☕🐈🏳️‍🌈</b>
+<b>Back-End | Streamer | Games | ☕🐈🏳️‍🌈</b>
 <br>
 <br>
 
