@@ -23,7 +23,7 @@ I have a background in Data Analytics and Product Management and am currently fo
 <div>
     <div align="right" style="margin:auto">
         <a href="https://wakatime.com/@tsuukisz">
-            <img width="300em" src="https://github-readme-stats.vercel.app/api/wakatime?username=tsuukisz&hide_border=false&theme=tokyonight&hide=markdown,html&hide_title=false&line_height=50&langs_count=5&v=2"
+            <img width="300em" src="https://github-readme-stats.vercel.app/api/wakatime?username=tsuukisz&hide_border=false&theme=tokyonight&hide=markdown,html&hide_title=false&line_height=50&langs_count=5"
                  alt="Wakatime stats" align="right" />
         </a>
 </div>
