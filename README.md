@@ -1,8 +1,13 @@
-<h1 align="center"> Carol Magalhães </h1>
+<div align="center">
+ 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](carolmagalhaes.lima@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolmagalhaeslima/)
+[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/tsuukisz)
 
+</div>
     
 <div align="center">
-<b>Back-End | Streamer | Games | ☕🐈🏳️‍🌈</b>
+<b>Data Analysis | Back-End | Games </b>
 <br>
 <br>
 
@@ -13,41 +18,25 @@
 </blockquote>
 </div>
 
+## Hey there!
 
-Hey there!! I am Carol, aka **Tsuukisz**!
+I'm **Carol** from São Paulo, Brazil. I graduated in **System Analysis and Development** and have experience as a **Data Analytics** intern and a **Product Management** intern. After exploring Product Management, I returned to my passion for Data Analysis while also developing an interest in coding. Currently, I'm honing my skills in data technologies and studying back-end development.
 
-I'm currently in my final semester of studying System Analysis and Development.
+My diverse experiences have equipped me with a strong foundation in analytics and product management, making me adept at leveraging methodologies and technologies for efficient and effective outcomes.
 
-I have a background in Data Analytics and Product Management and am currently focusing on back-end web development.
+## Detailed information 
 
-<div>
-    <div align="right" style="margin:auto">
-        <a href="https://wakatime.com/@tsuukisz">
-            <img width="300em" src="https://github-readme-stats.vercel.app/api/wakatime?username=tsuukisz&hide_border=false&theme=tokyonight&hide=markdown,html&hide_title=false&line_height=50&langs_count=5"
-                 alt="Wakatime stats" align="right" />
-        </a>
-</div>
-
-My expertise includes technologies and tools like **Postgres**, **Figma**, **Data Studio**, **Jira**, **Slack**, **Agile** and I also have some knowledge of **Python**.
-
-My key skills involve developing MVPs and prototypes, documenting features and processes, and facilitating communication between different departments within my company.
-
-While I have experience in data, my current focus is on becoming a back-end developer. I'm currently studying **PHP**, **HTML**, **CSS**, and **MySQL**.
-
+* **Name**: Carol Magalhães
+* **I feel most confortable with**: SQL - Tableau - Power BI - Figma
+* **I've had some experience using**: Data Studio - Google Sheets - Excel
+* **Learning**: HTML - CSS - PHP - Java - Python
+* **Skills**: Jira - Slack - Agile - Kanban
 
 </div>
 
 
 
 ---
-
-<div align="center">
- 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](carolmagalhaes.lima@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolmagalhaeslima/)
-[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/tsuukisz)
-
-</div>
 
 <div align="center">
         <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -57,4 +46,11 @@ While I have experience in data, my current focus is on becoming a back-end deve
         <img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
         <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">    
         <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+</div>
+<br>
+<div align="center" style="margin:auto">
+        <a href="https://wakatime.com/@tsuukisz">
+            <img width="300em" src="https://github-readme-stats.vercel.app/api/wakatime?username=tsuukisz&hide_border=false&theme=tokyonight&hide=markdown,html&hide_title=false&line_height=50&langs_count=5"
+                 alt="Wakatime stats" align="center" />
+        </a>
 </div>
