@@ -7,7 +7,7 @@
 </div>
     
 <div align="center">
-<b>Data Analysis | Back-End | Games </b>
+<b>Data Analysis | Business Intelligence | Back-End </b>
 <br>
 <br>
 
@@ -20,17 +20,20 @@
 
 ## Hey there!
 
-I'm **Carol** from São Paulo, Brazil. I graduated in **System Analysis and Development** and have experience as a **Data Analytics** intern and a **Product Management** intern. After exploring Product Management, I returned to my passion for Data Analysis while also developing an interest in coding. Currently, I'm honing my skills in data technologies and studying back-end development.
+I'm **Carol** from São Paulo, Brazil. I hold a degree in **System Analysis and Development** at Faculdade Impacta and am currently pursuing a degree in **Computer Science** at Centro Universitário Internacional UNINTER. With hands-on experience as a Data Analytics intern and a Product Management intern, I’ve developed a robust skill set in data technologies and analytics.
 
-My diverse experiences have equipped me with a strong foundation in analytics and product management, making me adept at leveraging methodologies and technologies for efficient and effective outcomes.
+My expertise spans **SQL (MySQL and PostgreSQL)**, **Power BI**, **Tableau**, and **Python**, with a proven track record of creating interactive dashboards, automating reports, and driving data-driven decision-making. I’m passionate about data analysis and back-end development, continuously refining my skills and staying abreast of the latest technologies.
 
-## Detailed information 
+My diverse background in analytics, product management, and data technologies equips me with a comprehensive understanding of leveraging methodologies and tools for impactful results. I thrive in dynamic environments and am eager to contribute to innovative projects that harness the power of data.
 
-* **Name**: Carol Magalhães
-* **I feel most confortable with**: SQL - Tableau - Power BI - Figma
-* **I've had some experience using**: Data Studio - Google Sheets - Excel
-* **Learning**: HTML - CSS - PHP - Java - Python
-* **Skills**: Jira - Slack - Agile - Kanban
+## Skills
+
+* **Languages**: SQL (MySQL and PostgreSQL), Python (Pandas, NumPy), PHP, Java
+* **Data Visualization**: Power BI, Tableau, Looker Studio, Klipfolio
+* **Data Analysis and Organization Tools**: Excel, Google Sheets
+* **Website Development and Automation**: Google Sites, SharePoint, HTML, CSS
+* **Design and Prototyping**: Figma
+* **Methodologies**: Scrum, Kanban
 
 </div>
 
