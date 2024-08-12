@@ -53,7 +53,7 @@ My diverse background in analytics, product management, and data technologies eq
 <br>
 <div align="center" style="margin:auto">
         <a href="https://wakatime.com/@dayaxsz">
-            <img width="300em" src="https://github-readme-stats.vercel.app/api/wakatime?username=tsuukisz&hide_border=false&theme=tokyonight&hide=markdown,html&hide_title=false&line_height=50&langs_count=5"
+            <img width="300em" src="https://github-readme-stats.vercel.app/api/wakatime?username=dayaxsz&hide_border=false&theme=tokyonight&hide=markdown,html&hide_title=false&line_height=50&langs_count=5"
                  alt="Wakatime stats" align="center" />
         </a>
 </div>
