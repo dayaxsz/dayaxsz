@@ -20,7 +20,7 @@
 
 ## Hey there!
 
-I'm **Carol** from São Paulo, Brazil. I hold a degree in **System Analysis and Development** at Faculdade Impacta and am currently pursuing a degree in **Computer Science** at Centro Universitário Internacional UNINTER. With hands-on experience as a Data Analytics intern and a Product Management intern, I’ve developed a robust skill set in data technologies and analytics.
+I'm **Carol** from São Paulo, Brazil. I hold a degree in **System Analysis and Development** at Faculdade Impacta and am currently pursuing a degree in **Information Systems** also at Faculdade Impacta. With hands-on experience as a Data Analytics intern and Product Management intern, I’ve developed a robust skill set in data technologies and analytics.
 
 My expertise spans **SQL (MySQL and PostgreSQL)**, **Power BI**, **Tableau**, and **Python**, with a proven track record of creating interactive dashboards, automating reports, and driving data-driven decision-making. I’m passionate about data analysis and back-end development, continuously refining my skills and staying abreast of the latest technologies.
 
